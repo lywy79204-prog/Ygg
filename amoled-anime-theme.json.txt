@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "",
+    "url": "https://raw.githubusercontent.com/lywy79204-prog/Ygg/refs/heads/main/amoled-anime-theme.json.txt",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
