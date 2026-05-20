@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https:"https://raw.githubusercontent.com/lywy79204-prog/Ygg/refs/heads/main/Dhjrvfj.json.txt",
+    "url":"blob:https://github.com/7d7a930b-4a03-4f89-a95b-124229a2fe66",
     "blur": 0.5,
     "alpha": 0.25,
     "size": "cover",
